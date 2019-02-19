@@ -6,5 +6,4 @@
 ######################################################################
 
 # not_a_user - Admin
-
-ifromspace - Host 
+Ifromspace - Host
